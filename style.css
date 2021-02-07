@@ -28,8 +28,7 @@ img {
 }
 
 .main-wrapper {
-  background-image: url
-![main-visual](https://user-images.githubusercontent.com/72715705/107143733-10941980-697a-11eb-9187-4cd33c65afdd.jpg);
+  background-image: url(../img/main-visual.jpg);
   background-size: cover;
   color: #fff;
   text-align: center;
